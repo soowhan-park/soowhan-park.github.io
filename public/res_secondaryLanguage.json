@@ -1,0 +1,126 @@
+{
+    "basic_info": {
+      "description_header": "안녕",
+      "description": "👋 소프트웨어 엔지니어 입니다.",
+      "section_name": {
+        "about": "About Me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Dummy",
+        "startDate": "2020",
+        "description": "..",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Dummy",
+        "startDate": "2018",
+        "description": ":)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Dummy",
+        "startDate": "2015",
+        "description": ":)",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Hanwha Life",
+        "title": "Software Developer Intern",
+        "years": "06.2022 - 08.2022",
+        "mainTech": [
+          "Aptos 8/9/10"
+        ],
+        "technologies": [
+          "JavaScript",
+          "React",
+          "Move",
+          "Aptos"
+        ]
+      },
+      {
+        "company": "Fasoo",
+        "title": "Software Engineer Intern",
+        "years": "06.2020 - 08.2020",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "Java",
+          "Android Studio",
+          "Google Vision API"
+        ]
+      },
+      {
+      "company": "Military Service",
+      "title": "Sergeant",
+      "years": "10.2017 - 06.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "TeamWork",
+        "Leadership",
+        "Integrity"
+      ]
+    }
+
+
+    ]
+  }

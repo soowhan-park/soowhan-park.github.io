@@ -1,0 +1,158 @@
+{
+    "basic_info": {
+      "description_header": "Hi there! 👋",
+      "description": "I'm Soowhan Park, a Software Engineer at ABC company. I recently got my Master's in Computer Science from New York University. I've been fortunate to dive into all sorts of cool stuff in the tech world — from courses and projects to internships. This is a digital playground where I introduce some of my projects, experiences, and my 2 cents about tech. During my free time, I enjoy taking cool photos, so I might upload some of those too :) ",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience",
+        "interests": "Interests"
+      }
+    },
+    "projects": [
+      {
+        "title": "Promotions Service for E-commerce",
+        "startDate": "2023",
+        "description": "Built a backend server for ",
+        "images": [
+          "images/portfolio/animal-shelter/p1.jpg",
+          "images/portfolio/animal-shelter/p2.jpg",
+          "images/portfolio/animal-shelter/p2.jpg"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Dummy1",
+        "startDate": "2018",
+        "description": "place holder :)",
+        "images": [
+          "images/portfolio/photography/p1.jpg",
+          "images/portfolio/photography/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
+          }
+        ]
+      },
+      {
+        "title": "Dummy2",
+        "startDate": "2015",
+        "description": "Place Hoder :)",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "textContent": [
+          "This is the first piece of text.",
+          "Here's the second text.",
+          "And this is the third one."
+        ],
+      
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      },
+      {
+        "title": "Dummy3",
+        "startDate": "2015",
+        "description": "Place Holder :)",
+        "images": [
+          "images/portfolio/adventure/p1.jpg",
+          "images/portfolio/adventure/p2.jpg"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-angularjs-plain",
+            "name": "Angular"
+          },
+          {
+            "class": "devicon-typescript-plain",
+            "name": "TypeScript"
+          },
+          {
+            "class": "devicon-csharp-plain",
+            "name": "C#"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "Hanwha Life",
+        "title": "Software Developer Intern",
+        "years": "06.2022 - 08.2022",
+        "mainTech": [
+          "Aptos 8/9/10"
+        ],
+        "technologies": [
+          "JavaScript",
+          "React",
+          "Move",
+          "Aptos"
+        ]
+      },
+      {
+        "company": "Fasoo",
+        "title": "Software Engineer Intern",
+        "years": "06.2020 - 08.2020",
+        "mainTech": [
+          "Angular 7/8"
+        ],
+        "technologies": [
+          "Java",
+          "Android Studio",
+          "Google Vision API"
+        ]
+      },
+      {
+      "company": "Military Service",
+      "title": "Sergeant",
+      "years": "10.2017 - 06.2019",
+      "mainTech": [
+        "Angular 7/8"
+      ],
+      "technologies": [
+        "TeamWork",
+        "Leadership",
+        "Integrity"
+      ]
+    }
+
+
+    ]
+  }
