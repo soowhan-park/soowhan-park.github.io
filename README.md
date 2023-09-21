@@ -1,6 +1,7 @@
 
 <h3>Personal Portfolio</h3>
 
+- https://soowhan-park.github.io/
 - Portfolio of Soowhan Park
 - Currently WIP 
 
