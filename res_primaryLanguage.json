@@ -23,16 +23,20 @@
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-docker-plain",
+            "name": "Docker"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
+            "class": "devicon-python-plain",
+            "name": "Python"
           },
           {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-flask-plain",
+            "name": "Flask"
+          },
+          {
+            "class": "devicon-kubernetes-plain",
+            "name": "Kubernetes"
           }
         ]
       },
@@ -117,40 +121,45 @@
         "title": "Software Developer Intern",
         "years": "06.2022 - 08.2022",
         "mainTech": [
-          "Aptos 8/9/10"
+          "Blockchain Development / Aptos"
         ],
         "technologies": [
           "JavaScript",
           "React",
           "Move",
           "Aptos"
-        ]
+        ],
+        "icon": "fab fa-bitcoin"
+        
       },
+      
       {
         "company": "Fasoo",
         "title": "Software Engineer Intern",
         "years": "06.2020 - 08.2020",
         "mainTech": [
-          "Angular 7/8"
+          "Mobile App Development"
         ],
         "technologies": [
           "Java",
           "Android Studio",
           "Google Vision API"
-        ]
+        ],
+        "icon": "fab fa-android"
       },
       {
-      "company": "Military Service",
+      "company": "4th Mobile Corps, SMPA",
       "title": "Sergeant",
       "years": "10.2017 - 06.2019",
       "mainTech": [
-        "Angular 7/8"
+        "Military Service"
       ],
       "technologies": [
         "TeamWork",
         "Leadership",
         "Integrity"
-      ]
+      ],
+      "icon": "fas fa-award"
     }
 
 
